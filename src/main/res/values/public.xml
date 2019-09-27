@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="icon" id="2130771968" />
+    <public type="drawable" name="welcome" id="2130771969" />
+    <public type="string" name="accsibility_service_description" id="2130837504" />
+    <public type="style" name="app_theme" id="2130903040" />
+    <public type="xml" name="accessibility_service_config" id="2130968576" />
+    <public type="xml" name="androlua_filepaths" id="2130968577" />
+</resources>
